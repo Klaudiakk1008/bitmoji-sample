@@ -39,7 +39,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <!--
+                <!-- SnapConnectActivity
                     Enter the parts of your redirect url below
                     e.g. if your redirect url is my-app://abc/xy/z
 
